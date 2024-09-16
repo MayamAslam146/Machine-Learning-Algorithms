@@ -34,4 +34,4 @@ Each algorithm is provided with its implementation in code, a brief explanation,
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/ml-algorithms.git
+   git clone https://github.com/MayamAslam146/Machine-Learning-Algorithms.git
